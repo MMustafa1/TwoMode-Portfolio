@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+html{
+    background-color:darkslategray;
+}
+img{
+    align-self:flex-end;
+    margin-left: 475px;
+}
+#last
+{
+    background-color:dimgrey;
+}
+h2{
+    color:black;
+}
