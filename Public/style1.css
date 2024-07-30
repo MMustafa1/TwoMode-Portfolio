@@ -6,10 +6,6 @@ h1{
 html{
     background-color:darkslategray;
 }
-img{
-    align-self:flex-end;
-    margin-left: 475px;
-}
 #last
 {
     background-color:dimgrey;
